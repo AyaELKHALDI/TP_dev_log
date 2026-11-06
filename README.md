@@ -25,8 +25,12 @@ Captures de l'application et diagrammes du projet.
 ### 4. Diagrammes d'activité
 * **Préinscription :**
 <img src="./diagramme%20d'activite%20Preinscription" width="400">
- . Inscription :
+
+* **Inscription :**
 <img src="./diagramme%20d'activite%20inscription" width="400">
+
+* **Diagrammes modifiés :**
+<img src="./diagrammes%20modifiee.png" width="400">
 
 ### 5. Diagrammes de classes
 * **Simple 1 :**
@@ -37,7 +41,6 @@ Captures de l'application et diagrammes du projet.
 ### 6. Autres diagrammes et analyses
 * **Diagramme d'état transition :**
 <img src="./diagramme%20d'état%20transition.png" width="400">
-* **Diagrammes modifiés :**
-<img src="./diagrammes%20modifiee.png" width="400">
+
 * **Tableau des difficultés & synthèse :**
 <img src="./tableau%20des%20difficultes%20&%20synthese.png" width="400">
