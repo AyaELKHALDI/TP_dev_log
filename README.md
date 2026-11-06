@@ -13,7 +13,7 @@ Captures de l'application et diagrammes du projet.
 
 ## 🖼️ Aperçu des interfaces & Diagrammes
 
-### 1. Aperçu des interfaces de la plateforme
+### 1. Apercu des interfaces de la plateforme
 <img src="./Apercu%20des%20interfaces%20de%20la%20plateforme.png" width="400">
 
 ### 2. Connexion avec le Compte Académique
