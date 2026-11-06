@@ -9,7 +9,7 @@ Captures de l'application et diagrammes du projet.
 - [x] Diagramme d'activité Préinscription & Inscription
 - [x] Diagramme de classe simple et détaillé
 - [x] Diagramme d'état transition
-- [x] Tableau des difficultés & synthèse
+- [x] Tableau des difficultés & synthèse 
 
 ## 🖼️ Aperçu des interfaces & Diagrammes
 
