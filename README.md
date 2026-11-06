@@ -35,6 +35,7 @@ Captures de l'application et diagrammes du projet.
 ### 5. Diagrammes de classes
 * **Simple 1 :**
 <img src="./diagramme%20de%20classe%20simple%201.png" width="600">
+
 * **Détaillé :**
 <img src="./diagramme%20de%20classe%20detailles.png" width="400">
 
