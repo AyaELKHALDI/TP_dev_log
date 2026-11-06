@@ -14,7 +14,7 @@ Captures de l'application et diagrammes du projet.
 ## 🖼️ Aperçu des interfaces & Diagrammes
 
 ### 1. Apercu des interfaces de la plateforme
-<img src="./Apercu%20des%20interfaces%20de%20la%20plateforme.png" width="400">
+<img src="./Apercu%20des%20interfaces%20de%20la%20platforme.png" width="500">
 
 ### 2. Connexion avec le Compte Académique
 <img src="./Connexion%20avec%20le%20Compte%20Académique.png" width="400">
@@ -25,12 +25,12 @@ Captures de l'application et diagrammes du projet.
 ### 4. Diagrammes d'activité
 * **Préinscription :**
 <img src="./diagramme%20d'activite%20Preinscription" width="400">
-* **Inscription :**
+ . Inscription :
 <img src="./diagramme%20d'activite%20inscription" width="400">
 
 ### 5. Diagrammes de classes
 * **Simple 1 :**
-<img src="./diagramme%20de%20classe%20simple%201.png" width="400">
+<img src="./diagramme%20de%20classe%20simple%201.png" width="600">
 * **Détaillé :**
 <img src="./diagramme%20de%20classe%20detailles.png" width="400">
 
