@@ -1,6 +1,6 @@
 # Application Doctorat USMBA – État d'avancement
 
-Captures de l'application et diagrammes du projet.
+Captures de l'application, diagrammes et analyses du projet.
 
 ## 📌 Checklist d'avancement
 - [x] Aperçu des interfaces de la plateforme
@@ -9,33 +9,20 @@ Captures de l'application et diagrammes du projet.
 - [x] Diagramme d'activité Préinscription & Inscription
 - [x] Diagramme de classe simple et détaillé
 - [x] Diagramme d'état transition
-- [x] Tableau des difficultés & synthèse 
+- [x] Tableau des difficultés & synthèse
+
+---
 
 ## 🖼️ Aperçu des interfaces & Diagrammes
 
-### 1. Aperçu des interfaces de la plateforme
-![Aperçu des interfaces](./Aperçu%20des%20interfaces%20de%20la%20plateforme.png)
-
-### 2. Connexion avec le Compte Académique
-![Connexion](./Connexion%20avec%20le%20Compte%20Académique.png)
-
-### 3. Parcours de candidature en ligne
-![Parcours](./Parcours%20de%20candidature%20en%20ligne.png)
-
-### 4. Diagrammes d'activité
-* **Préinscription :**
-![Preinscription](./diagramme%20d'activite%20Preinscription.png)
-* **Inscription :**
-![Inscription](./diagramme%20d'activite%20inscription.png)
-
-### 5. Diagrammes de classes
-* **Simple 1 :**
-![Classe simple](./diagramme%20de%20classe%20simple%201.png)
-* **Détaillé :**
-![Classe detaille](./diagramme%20de%20classe%20detailleles.png)
-
-### 6. Autres diagrammes et analyses
-* **Diagramme d'état transition :**
-![Etat transition](./diagramme%20d'état%20transition.png)
-* **Tableau des difficultés & synthèse :**
-![Tableau](./tableau%20des%20difficultes%20&%20synthese.png)
+| Élément / Fichier | Type | État |
+| :--- | :--- | :--- |
+| **Aperçu des interfaces de la plateforme** | Interface | [Voir le fichier](./Aperçu%2520des%2520interfaces%2520de%2520la%2520plateforme.png) |
+| **Connexion avec le Compte Académique** | Interface | [Voir le fichier](./Connexion%2520avec%2520le%2520Compte%2520Académique.png) |
+| **Parcours de candidature en ligne** | Interface | [Voir le fichier](./Parcours%2520de%2520candidature%2520en%2520ligne.png) |
+| **Diagramme d'activité - Préinscription** | UML | [Voir le fichier](./diagramme%2520d'activite%2520Preinscription.png) |
+| **Diagramme d'activité - Inscription** | UML | [Voir le fichier](./diagramme%2520d'activite%2520inscription.png) |
+| **Diagramme de classe simple** | UML | [Voir le fichier](./diagramme%2520de%2520classe%2520simple%25201.png) |
+| **Diagramme de classe détaillé** | UML | [Voir le fichier](./diagramme%2520de%2520classe%2520detailleles.png) |
+| **Diagramme d'état transition** | UML | [Voir le fichier](./diagramme%2520d'état%2520transition.png) |
+| **Tableau des difficultés & synthèse** | Analyse | [Voir le fichier](./tableau%2520des%2520difficultes%2520&%2520synthese.png) |
