@@ -1,23 +1,41 @@
-# TP Dev Logiciel - AyaELKHALDI
+# Application Doctorat USMBA – État d'avancement
 
-Projet de développement logiciel (Application Doctorat USMBA). Ce dépôt contient les différents diagrammes UML, les interfaces et les analyses de notre application.
+Captures de l'application et diagrammes du projet.
 
-## 📱 Aperçu des Interfaces
-* [Aperçu des interfaces de la plateforme](./Aperçu%20des%20interfaces%20de%20la%20plateforme.png)[span_1](start_span)[span_1](end_span)
-* [Connexion avec le Compte Académique](./Connexion%20avec%20le%20Compte%20Académique.png)[span_2](start_span)[span_2](end_span)
-* [Parcours de candidature en ligne](./Parcours%20de%20candidature%20en%20ligne.png)[span_3](start_span)[span_3](end_span)
+## 📌 Checklist d'avancement
+- [x] Aperçu des interfaces de la plateforme
+- [x] Connexion avec le Compte Académique
+- [x] Parcours de candidature en ligne
+- [x] Diagramme d'activité Préinscription & Inscription
+- [x] Diagramme de classe simple et détaillé
+- [x] Diagramme d'état transition
+- [x] Tableau des difficultés & synthèse
 
-## 📊 Diagrammes UML
-* **Diagrammes d'activité :**
-  * [Préinscription](./diagramme%20d'activite%20Preinscription.png)[span_4](start_span)[span_4](end_span)
-  * [Inscription](./diagramme%20d'activite%2520inscription.png)[span_5](start_span)[span_5](end_span)
-* **Diagrammes de classe :**
-  * [Classes simple 1](./diagramme%20de%20classe%20simple%201.png)[span_6](start_span)[span_6](end_span)
-  * [Classes détaillées](./diagramme%20de%20classe%20detailleles.png)[span_7](start_span)[span_7](end_span)
-* **Autres diagrammes :**
-  * [Diagramme d'état transition](./diagramme%20d'état%20transition.png)[span_8](start_span)[span_8](end_span)
-  * [Diagrammes modifiés](./diagrammes%20modifiee.png)[span_9](start_span)[span_9](end_span)
+## 🖼️ Aperçu des interfaces & Diagrammes
 
-## 🛠️ Analyse et Synthèse
-* [Tableau des difficultés & synthèse](./tableau%20des%20difficultes%20&%20synthese.png)[span_10](start_span)[span_10](end_span)
-*
+### 1. Aperçu des interfaces de la plateforme
+![Aperçu des interfaces](./Aperçu%2520des%2520interfaces%2520de%2520la%2520plateforme.png)
+
+### 2. Connexion avec le Compte Académique
+![Connexion](./Connexion%2520avec%2520le%2520Compte%2520Académique.png)
+
+### 3. Parcours de candidature en ligne
+![Parcours](./Parcours%2520de%2520candidature%2520en%2520ligne.png)
+
+### 4. Diagrammes d'activité
+* **Préinscription :**
+![Preinscription](./diagramme%2520d'activite%2520Preinscription.png)
+* **Inscription :**
+![Inscription](./diagramme%2520d'activite%2520inscription.png)
+
+### 5. Diagrammes de classes
+* **Simple 1 :**
+![Classe simple](./diagramme%2520de%2520classe%2520simple%25201.png)
+* **Détaillé :**
+![Classe detaille](./diagramme%2520de%2520classe%2520detailleles.png)
+
+### 6. Autres diagrammes et analyses
+* **Diagramme d'état transition :**
+![Etat transition](./diagramme%2520d'état%2520transition.png)
+* **Tableau des difficultés & synthèse :**
+![Tableau](./tableau%2520des%2520difficultes%2520&%2520synthese.png)
