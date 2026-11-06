@@ -26,7 +26,7 @@ Captures de l'application et diagrammes du projet.
 * **Préinscription :**
 <img src="./diagramme%20d'activite%20Preinscription.png" width="400">
 * **Inscription :**
-<img src="./diagramme%20d'activite%20inscription.png" width="400">
+<img src="./diagramme%20d'activite%20inscription" width="400">
 
 ### 5. Diagrammes de classes
 * **Simple 1 :**
